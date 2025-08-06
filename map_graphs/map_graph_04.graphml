@@ -1,0 +1,3388 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d16" for="edge" attr.name="width" attr.type="string" />
+  <key id="d15" for="edge" attr.name="length" attr.type="string" />
+  <key id="d14" for="edge" attr.name="reversed" attr.type="string" />
+  <key id="d13" for="edge" attr.name="oneway" attr.type="string" />
+  <key id="d12" for="edge" attr.name="ref" attr.type="string" />
+  <key id="d11" for="edge" attr.name="name" attr.type="string" />
+  <key id="d10" for="edge" attr.name="maxspeed" attr.type="string" />
+  <key id="d9" for="edge" attr.name="lanes" attr.type="string" />
+  <key id="d8" for="edge" attr.name="highway" attr.type="string" />
+  <key id="d7" for="edge" attr.name="osmid" attr.type="string" />
+  <key id="d6" for="node" attr.name="street_count" attr.type="string" />
+  <key id="d5" for="node" attr.name="highway" attr.type="string" />
+  <key id="d4" for="node" attr.name="x" attr.type="string" />
+  <key id="d3" for="node" attr.name="y" attr.type="string" />
+  <key id="d2" for="graph" attr.name="crs" attr.type="string" />
+  <key id="d1" for="graph" attr.name="created_with" attr.type="string" />
+  <key id="d0" for="graph" attr.name="created_date" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="15691291">
+      <data key="d3">49.033113</data>
+      <data key="d4">8.3950253</data>
+      <data key="d5">traffic_signals</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="15691293">
+      <data key="d3">49.0330636</data>
+      <data key="d4">8.3944536</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="15691294">
+      <data key="d3">49.0330589</data>
+      <data key="d4">8.3940893</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="15691296">
+      <data key="d3">49.0329374</data>
+      <data key="d4">8.3939831</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="16569240">
+      <data key="d3">49.0395005</data>
+      <data key="d4">8.3939066</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="21733399">
+      <data key="d3">49.0332699</data>
+      <data key="d4">8.3940414</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="21733400">
+      <data key="d3">49.0334498</data>
+      <data key="d4">8.3940077</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="21733401">
+      <data key="d3">49.0341217</data>
+      <data key="d4">8.3938715</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="21733402">
+      <data key="d3">49.034233</data>
+      <data key="d4">8.3938049</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="21733403">
+      <data key="d3">49.034372</data>
+      <data key="d4">8.3935483</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="21733404">
+      <data key="d3">49.0343882</data>
+      <data key="d4">8.3932562</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="21733405">
+      <data key="d3">49.0343321</data>
+      <data key="d4">8.3930401</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25342462">
+      <data key="d3">49.0401948</data>
+      <data key="d4">8.3937867</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25344918">
+      <data key="d3">49.0399036</data>
+      <data key="d4">8.3938389</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25933360">
+      <data key="d3">49.033985</data>
+      <data key="d4">8.3921699</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25933369">
+      <data key="d3">49.0356912</data>
+      <data key="d4">8.3917494</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="25933370">
+      <data key="d3">49.0351974</data>
+      <data key="d4">8.3924046</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="25933424">
+      <data key="d3">49.0376284</data>
+      <data key="d4">8.3919031</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="25933425">
+      <data key="d3">49.0380245</data>
+      <data key="d4">8.3925445</data>
+      <data key="d5">turning_circle</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="25933426">
+      <data key="d3">49.0374853</data>
+      <data key="d4">8.3921182</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25933432">
+      <data key="d3">49.0361375</data>
+      <data key="d4">8.3924465</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="25933433">
+      <data key="d3">49.0366642</data>
+      <data key="d4">8.3932099</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="25933434">
+      <data key="d3">49.0369253</data>
+      <data key="d4">8.3929264</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25933435">
+      <data key="d3">49.0370329</data>
+      <data key="d4">8.3927712</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25933437">
+      <data key="d3">49.0358191</data>
+      <data key="d4">8.39288</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25933438">
+      <data key="d3">49.0357428</data>
+      <data key="d4">8.3929437</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25933439">
+      <data key="d3">49.0356251</data>
+      <data key="d4">8.3929739</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25933448">
+      <data key="d3">49.033919</data>
+      <data key="d4">8.3964396</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25948514">
+      <data key="d3">49.0367358</data>
+      <data key="d4">8.3943947</data>
+      <data key="d5">traffic_signals</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="25948515">
+      <data key="d3">49.0366527</data>
+      <data key="d4">8.3933619</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25948516">
+      <data key="d3">49.0383938</data>
+      <data key="d4">8.3941089</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="25948517">
+      <data key="d3">49.0379116</data>
+      <data key="d4">8.3941889</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="26572397">
+      <data key="d3">49.034555</data>
+      <data key="d4">8.3933382</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="26572398">
+      <data key="d3">49.0344859</data>
+      <data key="d4">8.3933614</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="26572399">
+      <data key="d3">49.0343966</data>
+      <data key="d4">8.3933676</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="26572400">
+      <data key="d3">49.0348013</data>
+      <data key="d4">8.3931595</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="29991325">
+      <data key="d3">49.0351198</data>
+      <data key="d4">8.3930953</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="29991326">
+      <data key="d3">49.0342977</data>
+      <data key="d4">8.3937287</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="29991929">
+      <data key="d3">49.034636</data>
+      <data key="d4">8.3932378</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="54065744">
+      <data key="d3">49.0331259</data>
+      <data key="d4">8.3951736</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="220701979">
+      <data key="d3">49.0367283</data>
+      <data key="d4">8.3942638</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="220701985">
+      <data key="d3">49.0330996</data>
+      <data key="d4">8.3948704</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="309712523">
+      <data key="d3">49.0339683</data>
+      <data key="d4">8.3939107</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="309712531">
+      <data key="d3">49.0339119</data>
+      <data key="d4">8.3939212</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="309712532">
+      <data key="d3">49.03406</data>
+      <data key="d4">8.3938916</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="321269421">
+      <data key="d3">49.0352942</data>
+      <data key="d4">8.3930486</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="321269441">
+      <data key="d3">49.0354956</data>
+      <data key="d4">8.3930058</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="321269556">
+      <data key="d3">49.0358977</data>
+      <data key="d4">8.3927953</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="330175488">
+      <data key="d3">49.0333688</data>
+      <data key="d4">8.3949812</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="380913641">
+      <data key="d3">49.0342164</data>
+      <data key="d4">8.3969529</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="428117800">
+      <data key="d3">49.0328366</data>
+      <data key="d4">8.3950782</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="759814631">
+      <data key="d3">49.033811</data>
+      <data key="d4">8.3949111</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1432593494">
+      <data key="d3">49.0331785</data>
+      <data key="d4">8.3953837</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1432593528">
+      <data key="d3">49.0330701</data>
+      <data key="d4">8.394283</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1432593599">
+      <data key="d3">49.0331521</data>
+      <data key="d4">8.3940999</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1432593604">
+      <data key="d3">49.0340418</data>
+      <data key="d4">8.3938969</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1432593627">
+      <data key="d3">49.0332264</data>
+      <data key="d4">8.3940504</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1432593656">
+      <data key="d3">49.0330637</data>
+      <data key="d4">8.3943428</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1432593692">
+      <data key="d3">49.0330928</data>
+      <data key="d4">8.3942132</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1432593744">
+      <data key="d3">49.033195</data>
+      <data key="d4">8.3940622</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1432593747">
+      <data key="d3">49.0331149</data>
+      <data key="d4">8.3941619</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1464995816">
+      <data key="d3">49.034482</data>
+      <data key="d4">8.3974031</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1489379929">
+      <data key="d3">49.0393213</data>
+      <data key="d4">8.3939406</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1534392664">
+      <data key="d3">49.0365986</data>
+      <data key="d4">8.3931641</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1534392668">
+      <data key="d3">49.0367326</data>
+      <data key="d4">8.3931978</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1555217565">
+      <data key="d3">49.0331498</data>
+      <data key="d4">8.3953199</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1592879553">
+      <data key="d3">49.0385712</data>
+      <data key="d4">8.3940776</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1692834258">
+      <data key="d3">49.03313</data>
+      <data key="d4">8.3952195</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1701457420">
+      <data key="d3">49.035251</data>
+      <data key="d4">8.3930587</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1845448758">
+      <data key="d3">49.0329892</data>
+      <data key="d4">8.3950484</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1845448817">
+      <data key="d3">49.0332397</data>
+      <data key="d4">8.3950031</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1845449140">
+      <data key="d3">49.0365007</data>
+      <data key="d4">8.3944352</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1845449157">
+      <data key="d3">49.0366545</data>
+      <data key="d4">8.3932882</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1845449161">
+      <data key="d3">49.0366909</data>
+      <data key="d4">8.3937779</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1845449185">
+      <data key="d3">49.0368893</data>
+      <data key="d4">8.3943691</data>
+      <data key="d5">crossing</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1845464249">
+      <data key="d3">49.0360984</data>
+      <data key="d4">8.3925017</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1845464284">
+      <data key="d3">49.0366302</data>
+      <data key="d4">8.3931974</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1845464295">
+      <data key="d3">49.0366668</data>
+      <data key="d4">8.3935677</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1845464302">
+      <data key="d3">49.0367025</data>
+      <data key="d4">8.393212</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="1887022538">
+      <data key="d3">49.0347174</data>
+      <data key="d4">8.3931822</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2599927221">
+      <data key="d3">49.0330007</data>
+      <data key="d4">8.3940253</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2599927317">
+      <data key="d3">49.0313161</data>
+      <data key="d4">8.3942424</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2599927362">
+      <data key="d3">49.0328596</data>
+      <data key="d4">8.3939808</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2599927383">
+      <data key="d3">49.0315525</data>
+      <data key="d4">8.3942039</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2670282104">
+      <data key="d3">49.0363375</data>
+      <data key="d4">8.3944634</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2670282105">
+      <data key="d3">49.0367142</data>
+      <data key="d4">8.3940532</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2670301515">
+      <data key="d3">49.0317759</data>
+      <data key="d4">8.3952688</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2670301517">
+      <data key="d3">49.0341761</data>
+      <data key="d4">8.3948444</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2670301526">
+      <data key="d3">49.035539</data>
+      <data key="d4">8.3946057</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2670301527">
+      <data key="d3">49.0370377</data>
+      <data key="d4">8.3943428</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2923272930">
+      <data key="d3">49.0326453</data>
+      <data key="d4">8.3940172</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="2923272937">
+      <data key="d3">49.0327445</data>
+      <data key="d4">8.3940003</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="3380294934">
+      <data key="d3">49.0391489</data>
+      <data key="d4">8.393971</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4152259512">
+      <data key="d3">49.0330453</data>
+      <data key="d4">8.3940744</data>
+      <data key="d5">give_way</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4152259523">
+      <data key="d3">49.0343679</data>
+      <data key="d4">8.3931598</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4152259524">
+      <data key="d3">49.0343878</data>
+      <data key="d4">8.3934829</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4152259535">
+      <data key="d3">49.0351696</data>
+      <data key="d4">8.3923576</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4248302571">
+      <data key="d3">49.0374911</data>
+      <data key="d4">8.3916808</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4560696838">
+      <data key="d3">49.0397209</data>
+      <data key="d4">8.3938697</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4560696839">
+      <data key="d3">49.0361612</data>
+      <data key="d4">8.3944942</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4560696840">
+      <data key="d3">49.0331637</data>
+      <data key="d4">8.3953595</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4560696841">
+      <data key="d3">49.033138</data>
+      <data key="d4">8.395273</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4560696842">
+      <data key="d3">49.0334707</data>
+      <data key="d4">8.3949665</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4560696843">
+      <data key="d3">49.0327282</data>
+      <data key="d4">8.3950937</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="4560696844">
+      <data key="d3">49.0309455</data>
+      <data key="d4">8.3954111</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="5808087485">
+      <data key="d3">49.0341779</data>
+      <data key="d4">8.393843</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="5808087486">
+      <data key="d3">49.0343397</data>
+      <data key="d4">8.3936419</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="5808087487">
+      <data key="d3">49.0343942</data>
+      <data key="d4">8.3934273</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="5808087497">
+      <data key="d3">49.0366573</data>
+      <data key="d4">8.3934628</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="5808087498">
+      <data key="d3">49.0367013</data>
+      <data key="d4">8.3938873</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="5808730612">
+      <data key="d3">49.0323648</data>
+      <data key="d4">8.3940648</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="5808732907">
+      <data key="d3">49.0309768</data>
+      <data key="d4">8.3943009</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="5940934491">
+      <data key="d3">49.0368664</data>
+      <data key="d4">8.3930152</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="6415224385">
+      <data key="d3">49.0339558</data>
+      <data key="d4">8.3921025</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="9063761861">
+      <data key="d3">49.0349622</data>
+      <data key="d4">8.3947054</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="9063761863">
+      <data key="d3">49.0358665</data>
+      <data key="d4">8.3945476</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="9064082819">
+      <data key="d3">49.0346186</data>
+      <data key="d4">8.3947636</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="9163474820">
+      <data key="d3">49.0322625</data>
+      <data key="d4">8.3951761</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="9460694058">
+      <data key="d3">49.034543</data>
+      <data key="d4">8.3975131</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="9469208654">
+      <data key="d3">49.0375452</data>
+      <data key="d4">8.3917717</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="9529185367">
+      <data key="d3">49.0352576</data>
+      <data key="d4">8.3923529</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="9817535571">
+      <data key="d3">49.038005</data>
+      <data key="d4">8.3925119</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="10763918246">
+      <data key="d3">49.0328687</data>
+      <data key="d4">8.3950715</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="10763918262">
+      <data key="d3">49.0362651</data>
+      <data key="d4">8.394476</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="10763918264">
+      <data key="d3">49.036727</data>
+      <data key="d4">8.3942446</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="10763918265">
+      <data key="d3">49.0366624</data>
+      <data key="d4">8.3944073</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="10763918266">
+      <data key="d3">49.0368952</data>
+      <data key="d4">8.3943681</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="10764009474">
+      <data key="d3">49.0309004</data>
+      <data key="d4">8.3954185</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="11397448710">
+      <data key="d3">49.0372696</data>
+      <data key="d4">8.3924295</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="11397477390">
+      <data key="d3">49.0352994</data>
+      <data key="d4">8.3922947</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="11397485104">
+      <data key="d3">49.0352411</data>
+      <data key="d4">8.392938</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="12384448882">
+      <data key="d3">49.0306366</data>
+      <data key="d4">8.3943595</data>
+      <data key="d6">2</data>
+    </node>
+    <node id="12732138245">
+      <data key="d3">49.0346038</data>
+      <data key="d4">8.3976227</data>
+      <data key="d6">2</data>
+    </node>
+    <edge source="15691291" target="220701985" id="0">
+      <data key="d7">261415135</data>
+      <data key="d8">secondary</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">11.390402655218189</data>
+    </edge>
+    <edge source="15691291" target="1845448758" id="0">
+      <data key="d7">261415144</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">13.868576135416198</data>
+    </edge>
+    <edge source="15691291" target="1845448817" id="0">
+      <data key="d7">261415145</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">14.181071517249439</data>
+    </edge>
+    <edge source="15691291" target="54065744" id="0">
+      <data key="d7">670397461</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">10.906110828936862</data>
+    </edge>
+    <edge source="15691293" target="220701985" id="0">
+      <data key="d7">261415135</data>
+      <data key="d8">secondary</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">30.648130417331338</data>
+    </edge>
+    <edge source="15691293" target="1432593656" id="0">
+      <data key="d7">261415135</data>
+      <data key="d8">secondary</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.077560204792226</data>
+    </edge>
+    <edge source="15691294" target="1432593747" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.172341003437335</data>
+    </edge>
+    <edge source="15691294" target="4152259512" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">1.86194258985138</data>
+    </edge>
+    <edge source="15691296" target="2599927221" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">7.681619086559759</data>
+    </edge>
+    <edge source="15691296" target="2599927362" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.652602324133957</data>
+    </edge>
+    <edge source="16569240" target="4560696838" id="0">
+      <data key="d7">261413647</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">24.654556306444842</data>
+    </edge>
+    <edge source="16569240" target="1489379929" id="0">
+      <data key="d7">261413650</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">20.079692643837646</data>
+    </edge>
+    <edge source="21733399" target="1432593627" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.8812830023377956</data>
+    </edge>
+    <edge source="21733399" target="21733400" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">20.154295730160154</data>
+    </edge>
+    <edge source="21733400" target="21733399" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">20.154295730160154</data>
+    </edge>
+    <edge source="21733400" target="309712531" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">51.768747731657996</data>
+    </edge>
+    <edge source="21733401" target="309712532" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">7.01546985952952</data>
+    </edge>
+    <edge source="21733401" target="5808087485" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">6.585494408916359</data>
+    </edge>
+    <edge source="21733402" target="5808087485" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">6.727021690562097</data>
+    </edge>
+    <edge source="21733402" target="29991326" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">9.089354028310083</data>
+    </edge>
+    <edge source="21733403" target="5808087486" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">7.710978846764457</data>
+    </edge>
+    <edge source="21733403" target="4152259524" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">5.081075020558247</data>
+    </edge>
+    <edge source="21733404" target="26572399" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.174614254600167</data>
+    </edge>
+    <edge source="21733404" target="4152259523" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">7.3811961854746695</data>
+    </edge>
+    <edge source="21733405" target="4152259523" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">9.591268561157555</data>
+    </edge>
+    <edge source="21733405" target="25933360" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">74.25643379178719</data>
+    </edge>
+    <edge source="25342462" target="25344918" id="0">
+      <data key="d7">261413653</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">32.602800901233586</data>
+    </edge>
+    <edge source="25344918" target="25342462" id="0">
+      <data key="d7">261413653</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">32.602800901233586</data>
+    </edge>
+    <edge source="25344918" target="4560696838" id="0">
+      <data key="d7">460399774</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">20.439018974713015</data>
+    </edge>
+    <edge source="25933360" target="21733405" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">74.25643379178719</data>
+    </edge>
+    <edge source="25933360" target="6415224385" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">5.8893917970616405</data>
+    </edge>
+    <edge source="25933369" target="11397477390" id="0">
+      <data key="d7">4711395</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">58.97630161965838</data>
+    </edge>
+    <edge source="25933370" target="11397485104" id="0">
+      <data key="d7">670397451</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">39.18673797114059</data>
+    </edge>
+    <edge source="25933370" target="4152259535" id="0">
+      <data key="d7">670397452</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lavendelweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.614636368254729</data>
+    </edge>
+    <edge source="25933370" target="9529185367" id="0">
+      <data key="d7">1413124085</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">7.6820116071749736</data>
+    </edge>
+    <edge source="25933424" target="9817535571" id="0">
+      <data key="d7">4295914</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Goldregenweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">61.01689483868522</data>
+    </edge>
+    <edge source="25933424" target="9469208654" id="0">
+      <data key="d7">4295914</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Goldregenweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">13.316754967193148</data>
+    </edge>
+    <edge source="25933424" target="25933426" id="0">
+      <data key="d7">4296128</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">22.33940876331395</data>
+    </edge>
+    <edge source="25933425" target="9817535571" id="0">
+      <data key="d7">4295914</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Goldregenweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">3.216937387509192</data>
+    </edge>
+    <edge source="25933426" target="11397448710" id="0">
+      <data key="d7">4296128</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">33.01843702294275</data>
+    </edge>
+    <edge source="25933426" target="25933424" id="0">
+      <data key="d7">4296128</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">22.33940876331395</data>
+    </edge>
+    <edge source="25933432" target="1534392664" id="0">
+      <data key="d7">4296125</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">73.24801429984717</data>
+    </edge>
+    <edge source="25933432" target="1845464249" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">5.9240949203440865</data>
+    </edge>
+    <edge source="25933433" target="1845464284" id="0">
+      <data key="d7">4296125</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">3.8888930897501766</data>
+    </edge>
+    <edge source="25933433" target="1845449157" id="0">
+      <data key="d7">261413656</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">5.808837276680615</data>
+    </edge>
+    <edge source="25933433" target="1845464302" id="0">
+      <data key="d7">1412640106</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.261522138137623</data>
+    </edge>
+    <edge source="25933434" target="25933435" id="0">
+      <data key="d7">4296128</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">16.466543793300286</data>
+    </edge>
+    <edge source="25933434" target="5940934491" id="0">
+      <data key="d7">1412640106</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">9.208525002715962</data>
+    </edge>
+    <edge source="25933435" target="25933434" id="0">
+      <data key="d7">4296128</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">16.466543793300286</data>
+    </edge>
+    <edge source="25933435" target="11397448710" id="0">
+      <data key="d7">4296128</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">36.23774633048565</data>
+    </edge>
+    <edge source="25933437" target="25933438" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">9.67184095276584</data>
+    </edge>
+    <edge source="25933437" target="321269556" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">10.700953514696662</data>
+    </edge>
+    <edge source="25933438" target="25933439" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">13.271533547894077</data>
+    </edge>
+    <edge source="25933438" target="25933437" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">9.67184095276584</data>
+    </edge>
+    <edge source="25933439" target="321269441" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">14.586327489220508</data>
+    </edge>
+    <edge source="25933439" target="25933438" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">13.271533547894077</data>
+    </edge>
+    <edge source="25933448" target="380913641" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">49.93830918055125</data>
+    </edge>
+    <edge source="25933448" target="1432593494" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">112.71762112893869</data>
+    </edge>
+    <edge source="25948514" target="10763918265" id="0">
+      <data key="d7">261413652</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.213239337566003</data>
+    </edge>
+    <edge source="25948514" target="1845449185" id="0">
+      <data key="d7">261413654</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">17.170158824395767</data>
+    </edge>
+    <edge source="25948514" target="220701979" id="0">
+      <data key="d7">261413655</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">100</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">9.578554870983535</data>
+    </edge>
+    <edge source="25948515" target="5808087497" id="0">
+      <data key="d7">261413656</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">7.373054417671345</data>
+    </edge>
+    <edge source="25948515" target="1845449157" id="0">
+      <data key="d7">261413656</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">5.376223955461495</data>
+    </edge>
+    <edge source="25948516" target="1592879553" id="0">
+      <data key="d7">261413651</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">19.857518113979733</data>
+    </edge>
+    <edge source="25948516" target="25948517" id="0">
+      <data key="d7">261413651</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">53.934460543076696</data>
+    </edge>
+    <edge source="25948517" target="25948516" id="0">
+      <data key="d7">261413651</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">53.934460543076696</data>
+    </edge>
+    <edge source="25948517" target="2670301527" id="0">
+      <data key="d7">261415142</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">97.81883425850829</data>
+    </edge>
+    <edge source="26572397" target="26572398" id="0">
+      <data key="d7">1229011764</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">7.867517474363073</data>
+    </edge>
+    <edge source="26572397" target="29991929" id="0">
+      <data key="d7">1229011764</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">11.605704067265707</data>
+    </edge>
+    <edge source="26572398" target="26572399" id="0">
+      <data key="d7">670397453</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">9.94000226588993</data>
+    </edge>
+    <edge source="26572398" target="26572397" id="0">
+      <data key="d7">1229011764</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">7.867517474363073</data>
+    </edge>
+    <edge source="26572399" target="21733404" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.174614254600167</data>
+    </edge>
+    <edge source="26572399" target="26572398" id="0">
+      <data key="d7">670397453</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">9.94000226588993</data>
+    </edge>
+    <edge source="26572399" target="5808087487" id="0">
+      <data key="d7">670397454</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.360313141728414</data>
+    </edge>
+    <edge source="26572400" target="1887022538" id="0">
+      <data key="d7">1229011764</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">9.474896614680485</data>
+    </edge>
+    <edge source="26572400" target="29991325" id="0">
+      <data key="d7">1229011765</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">35.723533126196074</data>
+    </edge>
+    <edge source="29991325" target="26572400" id="0">
+      <data key="d7">1229011765</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">35.723533126196074</data>
+    </edge>
+    <edge source="29991325" target="1701457420" id="0">
+      <data key="d7">1229011765</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">14.830769124695179</data>
+    </edge>
+    <edge source="29991326" target="21733402" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">9.089354028310083</data>
+    </edge>
+    <edge source="29991326" target="5808087486" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">7.864542777543747</data>
+    </edge>
+    <edge source="29991929" target="26572397" id="0">
+      <data key="d7">1229011764</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">11.605704067265707</data>
+    </edge>
+    <edge source="29991929" target="1887022538" id="0">
+      <data key="d7">1229011764</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">9.917373712772626</data>
+    </edge>
+    <edge source="54065744" target="1692834258" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">3.377116013718704</data>
+    </edge>
+    <edge source="54065744" target="15691291" id="0">
+      <data key="d7">670397461</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">10.906110828936862</data>
+    </edge>
+    <edge source="220701979" target="25948514" id="0">
+      <data key="d7">261413655</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">100</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">9.578554870983535</data>
+    </edge>
+    <edge source="220701979" target="10763918264" id="0">
+      <data key="d7">261413655</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">100</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">1.4070622109254745</data>
+    </edge>
+    <edge source="220701985" target="15691291" id="0">
+      <data key="d7">261415135</data>
+      <data key="d8">secondary</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">11.390402655218189</data>
+    </edge>
+    <edge source="220701985" target="15691293" id="0">
+      <data key="d7">261415135</data>
+      <data key="d8">secondary</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">30.648130417331338</data>
+    </edge>
+    <edge source="309712523" target="1432593604" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.2345241434286</data>
+    </edge>
+    <edge source="309712523" target="309712531" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">6.317944198230929</data>
+    </edge>
+    <edge source="309712531" target="21733400" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">51.768747731657996</data>
+    </edge>
+    <edge source="309712531" target="309712523" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">6.317944198230929</data>
+    </edge>
+    <edge source="309712532" target="1432593604" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">2.0603035282793876</data>
+    </edge>
+    <edge source="309712532" target="21733401" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">7.01546985952952</data>
+    </edge>
+    <edge source="321269421" target="1701457420" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.859726773908836</data>
+    </edge>
+    <edge source="321269421" target="321269441" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">22.610991374762534</data>
+    </edge>
+    <edge source="321269441" target="321269421" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">22.610991374762534</data>
+    </edge>
+    <edge source="321269441" target="25933439" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">14.586327489220508</data>
+    </edge>
+    <edge source="321269556" target="25933437" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">10.700953514696662</data>
+    </edge>
+    <edge source="321269556" target="1845464249" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">30.921214700799194</data>
+    </edge>
+    <edge source="330175488" target="4560696842" id="0">
+      <data key="d7">261415145</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">11.381344121615745</data>
+    </edge>
+    <edge source="330175488" target="1845448817" id="0">
+      <data key="d7">261415145</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">14.44379391179099</data>
+    </edge>
+    <edge source="380913641" target="1464995816" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">44.151486271429356</data>
+    </edge>
+    <edge source="380913641" target="25933448" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">49.93830918055125</data>
+    </edge>
+    <edge source="428117800" target="10763918246" id="0">
+      <data key="d7">261415144</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">3.6026276589821213</data>
+    </edge>
+    <edge source="428117800" target="4560696843" id="0">
+      <data key="d7">261415144</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">12.106397980510687</data>
+    </edge>
+    <edge source="759814631" target="2670301517" id="0">
+      <data key="d7">460399776</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">40.88748593012381</data>
+    </edge>
+    <edge source="759814631" target="4560696842" id="0">
+      <data key="d7">460399776</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">38.05460874738432</data>
+    </edge>
+    <edge source="1432593494" target="25933448" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">112.71762112893869</data>
+    </edge>
+    <edge source="1432593494" target="4560696840" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">2.4126299615237694</data>
+    </edge>
+    <edge source="1432593528" target="1432593656" id="0">
+      <data key="d7">261415135</data>
+      <data key="d8">secondary</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.417247810017946</data>
+    </edge>
+    <edge source="1432593528" target="1432593692" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">5.680203752002962</data>
+    </edge>
+    <edge source="1432593599" target="1432593747" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">6.126988530671465</data>
+    </edge>
+    <edge source="1432593599" target="1432593744" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">5.505377966327636</data>
+    </edge>
+    <edge source="1432593604" target="309712523" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.2345241434286</data>
+    </edge>
+    <edge source="1432593604" target="309712532" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">2.0603035282793876</data>
+    </edge>
+    <edge source="1432593627" target="1432593744" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">3.5959376941999914</data>
+    </edge>
+    <edge source="1432593627" target="21733399" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.8812830023377956</data>
+    </edge>
+    <edge source="1432593656" target="15691293" id="0">
+      <data key="d7">261415135</data>
+      <data key="d8">secondary</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.077560204792226</data>
+    </edge>
+    <edge source="1432593656" target="1432593528" id="0">
+      <data key="d7">261415135</data>
+      <data key="d8">secondary</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.417247810017946</data>
+    </edge>
+    <edge source="1432593692" target="1432593528" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">5.680203752002962</data>
+    </edge>
+    <edge source="1432593692" target="1432593747" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.474989712940977</data>
+    </edge>
+    <edge source="1432593744" target="1432593599" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">5.505377966327636</data>
+    </edge>
+    <edge source="1432593744" target="1432593627" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">3.5959376941999914</data>
+    </edge>
+    <edge source="1432593747" target="15691294" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.172341003437335</data>
+    </edge>
+    <edge source="1432593747" target="1432593692" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.474989712940977</data>
+    </edge>
+    <edge source="1432593747" target="1432593599" id="0">
+      <data key="d7">613947275</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">6.126988530671465</data>
+    </edge>
+    <edge source="1464995816" target="9460694058" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">10.502954437319234</data>
+    </edge>
+    <edge source="1464995816" target="380913641" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">44.151486271429356</data>
+    </edge>
+    <edge source="1489379929" target="16569240" id="0">
+      <data key="d7">261413650</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">20.079692643837646</data>
+    </edge>
+    <edge source="1489379929" target="3380294934" id="0">
+      <data key="d7">261413650</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">19.297683095937387</data>
+    </edge>
+    <edge source="1534392664" target="1845464284" id="0">
+      <data key="d7">4296125</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.270730166910336</data>
+    </edge>
+    <edge source="1534392664" target="25933432" id="0">
+      <data key="d7">4296125</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">73.24801429984717</data>
+    </edge>
+    <edge source="1534392668" target="1845464302" id="0">
+      <data key="d7">1412640106</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">3.503387449606144</data>
+    </edge>
+    <edge source="1534392668" target="5940934491" id="0">
+      <data key="d7">1412640106</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">19.96328279727327</data>
+    </edge>
+    <edge source="1555217565" target="4560696840" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">3.2746311683761444</data>
+    </edge>
+    <edge source="1555217565" target="4560696841" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">3.6622228774882997</data>
+    </edge>
+    <edge source="1592879553" target="3380294934" id="0">
+      <data key="d7">261413650</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">64.70566870566599</data>
+    </edge>
+    <edge source="1592879553" target="25948516" id="0">
+      <data key="d7">261413651</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">19.857518113979733</data>
+    </edge>
+    <edge source="1692834258" target="4560696841" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.000415112984414</data>
+    </edge>
+    <edge source="1692834258" target="54065744" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">3.377116013718704</data>
+    </edge>
+    <edge source="1701457420" target="321269421" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.859726773908836</data>
+    </edge>
+    <edge source="1701457420" target="11397485104" id="0">
+      <data key="d7">670397451</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.867492514287665</data>
+    </edge>
+    <edge source="1701457420" target="29991325" id="0">
+      <data key="d7">1229011765</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">14.830769124695179</data>
+    </edge>
+    <edge source="1845448758" target="15691291" id="0">
+      <data key="d7">261415144</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">13.868576135416198</data>
+    </edge>
+    <edge source="1845448758" target="10763918246" id="0">
+      <data key="d7">261415144</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">13.504421696287624</data>
+    </edge>
+    <edge source="1845448817" target="330175488" id="0">
+      <data key="d7">261415145</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">14.44379391179099</data>
+    </edge>
+    <edge source="1845448817" target="15691291" id="0">
+      <data key="d7">261415145</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">14.181071517249439</data>
+    </edge>
+    <edge source="1845449140" target="10763918265" id="0">
+      <data key="d7">261413652</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">18.09490687004289</data>
+    </edge>
+    <edge source="1845449140" target="2670282104" id="0">
+      <data key="d7">261413652</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">18.26310161410628</data>
+    </edge>
+    <edge source="1845449157" target="25948515" id="0">
+      <data key="d7">261413656</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">5.376223955461495</data>
+    </edge>
+    <edge source="1845449157" target="25933433" id="0">
+      <data key="d7">261413656</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">5.808837276680615</data>
+    </edge>
+    <edge source="1845449161" target="1845464295" id="0">
+      <data key="d7">613947278</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">15.55547595233258</data>
+    </edge>
+    <edge source="1845449161" target="5808087498" id="0">
+      <data key="d7">613947280</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.058317036927104</data>
+    </edge>
+    <edge source="1845449185" target="10763918266" id="0">
+      <data key="d7">261413654</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">0.660088482518556</data>
+    </edge>
+    <edge source="1845449185" target="25948514" id="0">
+      <data key="d7">261413654</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">17.170158824395767</data>
+    </edge>
+    <edge source="1845464249" target="321269556" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">30.921214700799194</data>
+    </edge>
+    <edge source="1845464249" target="25933432" id="0">
+      <data key="d7">241462022</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">5.9240949203440865</data>
+    </edge>
+    <edge source="1845464284" target="25933433" id="0">
+      <data key="d7">4296125</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">3.8888930897501766</data>
+    </edge>
+    <edge source="1845464284" target="1534392664" id="0">
+      <data key="d7">4296125</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.270730166910336</data>
+    </edge>
+    <edge source="1845464295" target="1845449161" id="0">
+      <data key="d7">613947278</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">15.55547595233258</data>
+    </edge>
+    <edge source="1845464295" target="5808087497" id="0">
+      <data key="d7">613947278</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">7.719495458619855</data>
+    </edge>
+    <edge source="1845464302" target="25933433" id="0">
+      <data key="d7">1412640106</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.261522138137623</data>
+    </edge>
+    <edge source="1845464302" target="1534392668" id="0">
+      <data key="d7">1412640106</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">3.503387449606144</data>
+    </edge>
+    <edge source="1887022538" target="29991929" id="0">
+      <data key="d7">1229011764</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">9.917373712772626</data>
+    </edge>
+    <edge source="1887022538" target="26572400" id="0">
+      <data key="d7">1229011764</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">9.474896614680485</data>
+    </edge>
+    <edge source="2599927221" target="4152259512" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">6.116163439203619</data>
+    </edge>
+    <edge source="2599927221" target="15691296" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">7.681619086559759</data>
+    </edge>
+    <edge source="2599927317" target="2599927383" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">26.43594657772044</data>
+    </edge>
+    <edge source="2599927317" target="5808732907" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">37.968787054983146</data>
+    </edge>
+    <edge source="2599927362" target="15691296" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.652602324133957</data>
+    </edge>
+    <edge source="2599927362" target="2923272937" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">12.877264073173468</data>
+    </edge>
+    <edge source="2599927383" target="5808730612" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">90.89125807853061</data>
+    </edge>
+    <edge source="2599927383" target="2599927317" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">26.43594657772044</data>
+    </edge>
+    <edge source="2670282104" target="1845449140" id="0">
+      <data key="d7">261413652</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">18.26310161410628</data>
+    </edge>
+    <edge source="2670282104" target="10763918262" id="0">
+      <data key="d7">460399775</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.102752135032986</data>
+    </edge>
+    <edge source="2670282105" target="10763918264" id="0">
+      <data key="d7">261413655</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">100</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">14.024843831965724</data>
+    </edge>
+    <edge source="2670282105" target="5808087498" id="0">
+      <data key="d7">613947279</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">100</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">12.178343098710409</data>
+    </edge>
+    <edge source="2670301515" target="9163474820" id="0">
+      <data key="d7">460399778</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">54.527950372584726</data>
+    </edge>
+    <edge source="2670301515" target="4560696844" id="0">
+      <data key="d7">460399781</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">92.91736598458056</data>
+    </edge>
+    <edge source="2670301517" target="9064082819" id="0">
+      <data key="d7">261415138</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">49.55514460910662</data>
+    </edge>
+    <edge source="2670301517" target="759814631" id="0">
+      <data key="d7">460399776</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">40.88748593012381</data>
+    </edge>
+    <edge source="2670301526" target="9063761863" id="0">
+      <data key="d7">261415140</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">36.6618597436405</data>
+    </edge>
+    <edge source="2670301526" target="9063761861" id="0">
+      <data key="d7">979781294</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">64.5478154409295</data>
+    </edge>
+    <edge source="2670301527" target="10763918266" id="0">
+      <data key="d7">261413654</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">15.952268706296966</data>
+    </edge>
+    <edge source="2670301527" target="25948517" id="0">
+      <data key="d7">261415142</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">97.81883425850829</data>
+    </edge>
+    <edge source="2923272930" target="2923272937" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">11.099146035642537</data>
+    </edge>
+    <edge source="2923272930" target="5808730612" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">31.382670798140328</data>
+    </edge>
+    <edge source="2923272937" target="2599927362" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">12.877264073173468</data>
+    </edge>
+    <edge source="2923272937" target="2923272930" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">11.099146035642537</data>
+    </edge>
+    <edge source="3380294934" target="1489379929" id="0">
+      <data key="d7">261413650</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">19.297683095937387</data>
+    </edge>
+    <edge source="3380294934" target="1592879553" id="0">
+      <data key="d7">261413650</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">64.70566870566599</data>
+    </edge>
+    <edge source="4152259512" target="15691294" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">1.86194258985138</data>
+    </edge>
+    <edge source="4152259512" target="2599927221" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">6.116163439203619</data>
+    </edge>
+    <edge source="4152259523" target="21733404" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">7.3811961854746695</data>
+    </edge>
+    <edge source="4152259523" target="21733405" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">9.591268561157555</data>
+    </edge>
+    <edge source="4152259524" target="21733403" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">5.081075020558247</data>
+    </edge>
+    <edge source="4152259524" target="5808087487" id="0">
+      <data key="d7">670397454</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.115248159262696</data>
+    </edge>
+    <edge source="4152259535" target="25933370" id="0">
+      <data key="d7">670397452</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lavendelweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.614636368254729</data>
+    </edge>
+    <edge source="4248302571" target="9469208654" id="0">
+      <data key="d7">4295914</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Goldregenweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.949565233959525</data>
+    </edge>
+    <edge source="4560696838" target="16569240" id="0">
+      <data key="d7">261413647</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">24.654556306444842</data>
+    </edge>
+    <edge source="4560696838" target="25344918" id="0">
+      <data key="d7">460399774</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">20.439018974713015</data>
+    </edge>
+    <edge source="4560696839" target="10763918262" id="0">
+      <data key="d7">460399775</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">11.629098940653858</data>
+    </edge>
+    <edge source="4560696839" target="9063761863" id="0">
+      <data key="d7">979781295</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">32.999595820461</data>
+    </edge>
+    <edge source="4560696840" target="1432593494" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">2.4126299615237694</data>
+    </edge>
+    <edge source="4560696840" target="1555217565" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">3.2746311683761444</data>
+    </edge>
+    <edge source="4560696841" target="1555217565" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">3.6622228774882997</data>
+    </edge>
+    <edge source="4560696841" target="1692834258" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.000415112984414</data>
+    </edge>
+    <edge source="4560696842" target="330175488" id="0">
+      <data key="d7">261415145</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">11.381344121615745</data>
+    </edge>
+    <edge source="4560696842" target="759814631" id="0">
+      <data key="d7">460399776</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">38.05460874738432</data>
+    </edge>
+    <edge source="4560696843" target="428117800" id="0">
+      <data key="d7">261415144</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">12.106397980510687</data>
+    </edge>
+    <edge source="4560696843" target="9163474820" id="0">
+      <data key="d7">460399778</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">52.130821709376086</data>
+    </edge>
+    <edge source="4560696844" target="10764009474" id="0">
+      <data key="d7">261415139</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">5.043834217281127</data>
+    </edge>
+    <edge source="4560696844" target="2670301515" id="0">
+      <data key="d7">460399781</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">92.91736598458056</data>
+    </edge>
+    <edge source="5808087485" target="21733401" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">6.585494408916359</data>
+    </edge>
+    <edge source="5808087485" target="21733402" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">6.727021690562097</data>
+    </edge>
+    <edge source="5808087486" target="29991326" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">7.864542777543747</data>
+    </edge>
+    <edge source="5808087486" target="21733403" id="0">
+      <data key="d7">4087293</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">7.710978846764457</data>
+    </edge>
+    <edge source="5808087487" target="4152259524" id="0">
+      <data key="d7">670397454</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">4.115248159262696</data>
+    </edge>
+    <edge source="5808087487" target="26572399" id="0">
+      <data key="d7">670397454</data>
+      <data key="d8">secondary</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Bocksdornweg</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">4.360313141728414</data>
+    </edge>
+    <edge source="5808087497" target="25948515" id="0">
+      <data key="d7">261413656</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">7.373054417671345</data>
+    </edge>
+    <edge source="5808087497" target="1845464295" id="0">
+      <data key="d7">613947278</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">2</data>
+      <data key="d10">50</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">7.719495458619855</data>
+    </edge>
+    <edge source="5808087498" target="2670282105" id="0">
+      <data key="d7">613947279</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">100</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">12.178343098710409</data>
+    </edge>
+    <edge source="5808087498" target="1845449161" id="0">
+      <data key="d7">613947280</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">50</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.058317036927104</data>
+    </edge>
+    <edge source="5808730612" target="2923272930" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">31.382670798140328</data>
+    </edge>
+    <edge source="5808730612" target="2599927383" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">90.89125807853061</data>
+    </edge>
+    <edge source="5808732907" target="2599927317" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">37.968787054983146</data>
+    </edge>
+    <edge source="5808732907" target="12384448882" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">38.06905168196142</data>
+    </edge>
+    <edge source="5940934491" target="1534392668" id="0">
+      <data key="d7">1412640106</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">19.96328279727327</data>
+    </edge>
+    <edge source="5940934491" target="25933434" id="0">
+      <data key="d7">1412640106</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">9.208525002715962</data>
+    </edge>
+    <edge source="6415224385" target="25933360" id="0">
+      <data key="d7">30443940</data>
+      <data key="d8">secondary</data>
+      <data key="d10">50</data>
+      <data key="d11">Am Wald</data>
+      <data key="d12">K 9658</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">5.8893917970616405</data>
+    </edge>
+    <edge source="9063761861" target="2670301526" id="0">
+      <data key="d7">979781294</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">64.5478154409295</data>
+    </edge>
+    <edge source="9063761861" target="9064082819" id="0">
+      <data key="d7">979815348</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">38.44148284864376</data>
+    </edge>
+    <edge source="9063761863" target="2670301526" id="0">
+      <data key="d7">261415140</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">36.6618597436405</data>
+    </edge>
+    <edge source="9063761863" target="4560696839" id="0">
+      <data key="d7">979781295</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">32.999595820461</data>
+    </edge>
+    <edge source="9064082819" target="2670301517" id="0">
+      <data key="d7">261415138</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">49.55514460910662</data>
+    </edge>
+    <edge source="9064082819" target="9063761861" id="0">
+      <data key="d7">979815348</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">38.44148284864376</data>
+    </edge>
+    <edge source="9163474820" target="4560696843" id="0">
+      <data key="d7">460399778</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">52.130821709376086</data>
+    </edge>
+    <edge source="9163474820" target="2670301515" id="0">
+      <data key="d7">460399778</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">54.527950372584726</data>
+    </edge>
+    <edge source="9460694058" target="12732138245" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">10.466321352376626</data>
+    </edge>
+    <edge source="9460694058" target="1464995816" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">10.502954437319234</data>
+    </edge>
+    <edge source="9469208654" target="25933424" id="0">
+      <data key="d7">4295914</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Goldregenweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">13.316754967193148</data>
+    </edge>
+    <edge source="9469208654" target="4248302571" id="0">
+      <data key="d7">4295914</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Goldregenweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">8.949565233959525</data>
+    </edge>
+    <edge source="9529185367" target="25933370" id="0">
+      <data key="d7">1413124085</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">7.6820116071749736</data>
+    </edge>
+    <edge source="9529185367" target="11397477390" id="0">
+      <data key="d7">1413124085</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">6.293178589587344</data>
+    </edge>
+    <edge source="9817535571" target="25933425" id="0">
+      <data key="d7">4295914</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Goldregenweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">3.216937387509192</data>
+    </edge>
+    <edge source="9817535571" target="25933424" id="0">
+      <data key="d7">4295914</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Goldregenweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">61.01689483868522</data>
+    </edge>
+    <edge source="10763918246" target="1845448758" id="0">
+      <data key="d7">261415144</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">13.504421696287624</data>
+    </edge>
+    <edge source="10763918246" target="428117800" id="0">
+      <data key="d7">261415144</data>
+      <data key="d8">primary</data>
+      <data key="d9">5</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">3.6026276589821213</data>
+    </edge>
+    <edge source="10763918262" target="2670282104" id="0">
+      <data key="d7">460399775</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.102752135032986</data>
+    </edge>
+    <edge source="10763918262" target="4560696839" id="0">
+      <data key="d7">460399775</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">11.629098940653858</data>
+    </edge>
+    <edge source="10763918264" target="220701979" id="0">
+      <data key="d7">261413655</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">100</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">1.4070622109254745</data>
+    </edge>
+    <edge source="10763918264" target="2670282105" id="0">
+      <data key="d7">261413655</data>
+      <data key="d8">unclassified</data>
+      <data key="d9">3</data>
+      <data key="d10">100</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">14.024843831965724</data>
+    </edge>
+    <edge source="10763918265" target="25948514" id="0">
+      <data key="d7">261413652</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.213239337566003</data>
+    </edge>
+    <edge source="10763918265" target="1845449140" id="0">
+      <data key="d7">261413652</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">18.09490687004289</data>
+    </edge>
+    <edge source="10763918266" target="2670301527" id="0">
+      <data key="d7">261413654</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">15.952268706296966</data>
+    </edge>
+    <edge source="10763918266" target="1845449185" id="0">
+      <data key="d7">261413654</data>
+      <data key="d8">primary</data>
+      <data key="d9">4</data>
+      <data key="d10">70</data>
+      <data key="d11">Linkenheimer Landstraße</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">0.660088482518556</data>
+    </edge>
+    <edge source="10764009474" target="4560696844" id="0">
+      <data key="d7">261415139</data>
+      <data key="d8">primary</data>
+      <data key="d9">3</data>
+      <data key="d10">70</data>
+      <data key="d11">Willy-Brandt-Allee</data>
+      <data key="d12">L 605</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">5.043834217281127</data>
+    </edge>
+    <edge source="11397448710" target="25933435" id="0">
+      <data key="d7">4296128</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">36.23774633048565</data>
+    </edge>
+    <edge source="11397448710" target="25933426" id="0">
+      <data key="d7">4296128</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Lorbeerweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">33.01843702294275</data>
+    </edge>
+    <edge source="11397477390" target="25933369" id="0">
+      <data key="d7">4711395</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">58.97630161965838</data>
+    </edge>
+    <edge source="11397477390" target="9529185367" id="0">
+      <data key="d7">1413124085</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">6.293178589587344</data>
+    </edge>
+    <edge source="11397485104" target="1701457420" id="0">
+      <data key="d7">670397451</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">8.867492514287665</data>
+    </edge>
+    <edge source="11397485104" target="25933370" id="0">
+      <data key="d7">670397451</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Sanddornweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">39.18673797114059</data>
+    </edge>
+    <edge source="12384448882" target="5808732907" id="0">
+      <data key="d7">3532669</data>
+      <data key="d8">unclassified</data>
+      <data key="d10">50</data>
+      <data key="d11">Ohiostraße</data>
+      <data key="d16">6.5</data>
+      <data key="d13">False</data>
+      <data key="d14">False</data>
+      <data key="d15">38.06905168196142</data>
+    </edge>
+    <edge source="12732138245" target="9460694058" id="0">
+      <data key="d7">4307675</data>
+      <data key="d8">residential</data>
+      <data key="d10">30</data>
+      <data key="d11">Rosenhofweg</data>
+      <data key="d13">False</data>
+      <data key="d14">True</data>
+      <data key="d15">10.466321352376626</data>
+    </edge>
+    <data key="d0">2025-07-20 22:16:09</data>
+    <data key="d1">OSMnx 2.0.5</data>
+    <data key="d2">epsg:4326</data>
+  </graph>
+</graphml>

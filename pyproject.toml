@@ -1,0 +1,116 @@
+[build-system]
+requires = ["setuptools>=45", "wheel", "setuptools_scm[toml]>=6.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "deepvo-slam"
+version = "1.0.0"
+description = "Visual-Inertial SLAM System based on Deep Learning. Требуется CUDA для ускорения работы с PyTorch."
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [
+    {name = "DeepVO Team"}
+]
+maintainers = [
+    {name = "DeepVO Team"}
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Scientific/Engineering :: Image Recognition",
+]
+keywords = ["slam", "visual-odometry", "deep-learning", "kitti", "pytorch"]
+requires-python = ">=3.7"
+dependencies = [
+    "torch>=1.8.0",
+    "torchvision>=0.9.0",
+    "opencv-python>=4.5.0",
+    "Pillow>=8.0.0",
+    "numpy>=1.19.0",
+    "scipy>=1.6.0",
+    "gtsam>=4.0.0",
+    "networkx>=2.5",
+    "shapely>=1.7.0",
+    "pyproj>=3.0.0",
+    "folium>=0.12.0",
+    "pandas>=1.2.0",
+    "tqdm>=4.60.0",
+    "pykitti>=0.3.0",
+    "matplotlib>=3.3.0",
+    "seaborn>=0.11.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=6.0.0",
+    "flake8>=3.8.0",
+    "black>=21.0.0",
+    "isort>=5.0.0",
+    "mypy>=0.800",
+]
+jupyter = [
+    "jupyter>=1.0.0",
+    "ipykernel>=6.0.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/aak204/deepvo-slam"
+Documentation = "https://github.com/aak204/deepvo-slam#readme"
+Repository = "https://github.com/aak204/deepvo-slam.git"
+"Bug Tracker" = "https://github.com/aak204/deepvo-slam/issues"
+
+[project.scripts]
+deepvo-train = "train:main"
+deepvo-slam = "FINAL_SLAM_FULL:run_sequence"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["deepvo*"]
+
+[tool.black]
+line-length = 88
+target-version = ['py37', 'py38', 'py39']
+include = '\.pyi?$'
+extend-exclude = '''
+/(
+  # directories
+  \.eggs
+  | \.git
+  | \.hg
+  | \.mypy_cache
+  | \.tox
+  | \.venv
+  | build
+  | dist
+)/
+'''
+
+[tool.isort]
+profile = "black"
+multi_line_output = 3
+line_length = 88
+known_first_party = ["deepvo"]
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q --strict-markers"
+testpaths = [
+    "tests",
+]
+python_files = "test_*.py"
+python_classes = "Test*"
+python_functions = "test_*"
+
+[tool.mypy]
+python_version = "3.7"
+warn_return_any = true
+warn_unused_configs = true
+disallow_untyped_defs = true

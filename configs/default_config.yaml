@@ -1,0 +1,80 @@
+# Конфигурация DeepVO SLAM системы
+
+# Системные параметры
+system:
+  device: "cuda:0"  # cuda:0, cpu
+  n_processors: 12
+
+# Параметры данных
+data:
+  data_dir: "./dataset"
+  image_dir: "./dataset/sequences"
+  pose_dir: "./dataset/poses"
+  
+  # Последовательности для различных этапов
+  train_sequences: ["00", "02", "08", "09"]
+  valid_sequences: ["03", "05"]
+  test_sequences: ["03", "04", "05", "06", "07", "10"]
+
+# Параметры изображений
+image:
+  width: 640
+  height: 192
+  sequence_length: 7
+  overlap: 1
+
+# Аугментация данных
+augmentation:
+  horizontal_flip: false
+  color_jitter: false
+  brightness: 0.4
+  contrast: 0.4
+  saturation: 0.4
+  hue: 0.1
+
+# Параметры нейронной сети
+model:
+  rnn_hidden_size: 1000
+  conv_dropout: [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.5]
+  rnn_dropout_out: 0.2
+  rnn_dropout_between: 0.2
+  batch_norm: true
+
+# Параметры обучения
+training:
+  epochs: 130
+  batch_size: 12
+  learning_rate: 0.001
+  weight_decay: 0.000005
+  pin_memory: true
+  
+  # Планировщик скорости обучения
+  scheduler:
+    type: "cosine"
+    eta_min: 0.0000001
+
+# Fine-tuning параметры
+fine_tuning:
+  epochs: 20
+  learning_rate: 0.00005
+
+# Пути к моделям
+paths:
+  pretrained_flownet: "./models/flownets_bn_EPE2.459.pth"
+  experiments: "./experiments"
+
+# SLAM параметры
+slam:
+  # Шумы для GTSAM
+  prior_noise: [0.01, 0.01, 0.1]  # x, y, theta (градусы)
+  odometry_noise: [0.5, 0.5, 2.0]  # x, y, theta (градусы)
+  map_match_noise: [1.5, 1.5, 8.0]  # x, y, theta (градусы)
+
+  # Параметры поиска дорог
+  search_radius: 30.0
+  heading_tolerance: 60.0
+
+# Визуализация
+visualization:
+  map_zoom: 18
+  result_dir: "./results"

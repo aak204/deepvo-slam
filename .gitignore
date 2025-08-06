@@ -1,0 +1,123 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# Data files
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Model files
+*.pth
+*.pt
+*.model
+*.ckpt
+*.optimizer
+
+# Dataset - ИСКЛЮЧАЕМ ВСЕ ДАННЫЕ
+dataset/
+kitti_raw_data/
+*.zip
+*.tar.gz
+
+# Results - ИСКЛЮЧАЕМ ВСЕ РЕЗУЛЬТАТЫ
+results/
+outputs/
+logs/
+records/
+*.html
+*.png
+*.jpg
+*.jpeg
+
+# SLAM specific - ИСКЛЮЧАЕМ ВСЕ РЕЗУЛЬТАТЫ SLAM
+_SAVE_RESULTS/
+test_results_visual/
+poses_from_gps/
+experiments/
+
+# GTSAM - ИСКЛЮЧАЕМ БОЛЬШУЮ БИБЛИОТЕКУ
+gtsam/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# --- Разрешаем хранить важные артефакты для репозитория ---
+!map_graphs/
+!ground_truth_generated/
+!notebooks/
+!fig/
+# --- Разрешаем хранить модели (ONNX, pre-trained) ---
+!models/
